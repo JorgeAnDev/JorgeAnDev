@@ -10,9 +10,10 @@
     <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 👨‍💻 Hi there! I'm Jorge Grisales, a passionate Software Developer in the making.
-🎓 Currently in my 5th semester of Software Development, building real-world projects and 
-    sharpening my skills every day.
-🚀 I love turning ideas into digital realities — from front-end interfaces to back-end logic.
+🎓 Currently in my 5th semester of Software Development, building real-world projects 
+    and sharpening my skills every day.
+🚀 I love turning ideas into digital realities — from front-end interfaces to back-end 
+    logic.
 🔧 Always learning, always coding — with a strong focus on clean code, creativity, and 
     problem solving.
 🌐 Exploring the tech world one commit at a time.
