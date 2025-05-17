@@ -50,6 +50,7 @@
     <a href="https://github.com/JorgeAnDev"><img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://github.com/JorgeAnDev"><img alt="Google Sheets" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/JorgeAnDev"><img alt="Jupyter" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/JorgeAnDev"><img alt="Jupyter" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>    
     <a href="https://github.com/JorgeAnDev"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
